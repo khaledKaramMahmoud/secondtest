@@ -1,1 +1,3 @@
-somehehgdjkmndjklk
+int main(){
+cout<<"rrrrr";
+}
